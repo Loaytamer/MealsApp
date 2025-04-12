@@ -25,10 +25,10 @@ MealsApp is a React Native application that allows users to explore meals by cat
 
 ## 📸 Screenshots
 
-> ![Home Screen](screenshots/mainScreen.png)
-> ![Category Screen](screenshots/category.png)
-> ![Meal Detail Screen](screenshots/mealDetails.png)
-> ![Fav Screen](screenshots/favScreen.png)
+> ![Home Screen](screenshots/mainScreen.jpg)
+> ![Category Screen](screenshots/category.jpg)
+> ![Meal Detail Screen](screenshots/mealDetails.jpg)
+> ![Fav Screen](screenshots/favScreen.jpg)
 
 ---
 
